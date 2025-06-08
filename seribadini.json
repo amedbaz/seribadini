@@ -1,33 +1,78 @@
 {
-  "seri1":[
-  {
-   "id":2,
-       "wene1":"https://media.themoviedb.org/t/p/w440_and_h660_face/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg",
-      "wene":"https://media.themoviedb.org/t/p/w440_and_h660_face/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg",
-      "ism":" ",
-      "nav":"Havoc 2025",
-    "action":"film", 
-    "aaction":"Action",
-    "raiting":"star", 
-    "araitng":" 5.7",
+  "Searchii":
+ [
+    {
+   "value":17,
+      "lable":"Snow ",
+        "zman":"Badini",
+       "wene1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCYnZTkUgLP1FGfiQS008NhJjRjRYDXr5V9Q&s",
+      "wene":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCYnZTkUgLP1FGfiQS008NhJjRjRYDXr5V9Q&s",
+      "ism":"",
+      "nav":" Snow",
+       "navs":"Snow",
+    "welat":"Snow",
+   "kurti":"Overview",
+    "trailer":" ",
+    "action":"film",
+    "aaction":"sea level ",
+    "raiting":"star",
+    "araitng":" 5.9",
     "time":"time-sharp",
-    "atime":" 1h 47m",
-    "trailer":"ترەیلەر",
-    "youtube":"6txjTWLoSc8?si=92qLBuAaSGZfgqbS",
-      "youtube1":"rBSh28CiL6E?si=1z6VWrHDR-5dC3F6",
-      "youtube2":"dQ8mT0VmEjY?si=lb64Sk7Om0gLuqfS",
-      "youtube3":"gf2glD_KzMs?si=uRhnfZ827Jy01ZYI",
-      "jor":"Havoc 2025",
-   "play1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/playy.png?alt=media&token=37b0b437-4dec-46d2-b6bc-ce146d2d7acb",
-"play":"https://hiii1.blob.core.windows.net/havoc/Havoc.2025.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?sp=r&st=2025-06-06T13:32:25Z&se=2222-06-06T21:32:25Z&sv=2024-11-04&sr=b&sig=5Iua6nB2Fr%2BXI17KLLRVlBywLAtLdCgPE88SGq5WcvA%3D",
- "kurti":"كورتی",
- "akurti":"پشتی شکەستنا دانوستاندنەکا ماددێن هوشبەر پۆلیسەکێ بریندار نەچارە ل ناڤا جیهانا تاوانکاریێدا لدویف کوڕەکێ سیاسەتمەدار بگەڕیێ، دڤی دەمیدا نهێنییا گەندەلیەکا مەزن ئاشکەرا دبیت",
-"actor":"https://media.themoviedb.org/t/p/w276_and_h350_face/scbbuyWX3yuMjDlm1etAljrbCr0.jpg",
-"actor1":"https://media.themoviedb.org/t/p/w276_and_h350_face/3OREEt5tcqkVNMuaino7qA6hSWG.jpg",
- "actor2":"https://media.themoviedb.org/t/p/w276_and_h350_face/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg",
- "actor3":"https://media.themoviedb.org/t/p/w276_and_h350_face/oNXfeaVbilHgKafs2ovn9XffG3g.jpg",
- "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg",
- "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/xFmMBP5qtAiLDpbrziXOYdAkK7.jpg",
+    "atime":"climate",
+        "play1":" ",
+ 
+    "youtube":"wcDFgir_jgY?si=ceV3dQXCyh9gdTmT",
+     
+      "jor":" ",
+
+
+ "akurti":"Snow cover has a significant effect on climate and on plant, animal, and human life. By increasing the reflection of solar radiation and interfering with the conduction of heat from the ground, it induces a cold climate. The low heat conduction protects small plants from the effects of the lowest winter temperatures; on the other hand, the late disappearance of snow in the spring delays the growth of plants. When snow melts in the spring, the resulting runoff feeds rivers and supplies water for irrigation and other human enterprises. Heavy snowfalls can severely hinder transporation in variable moderate climates but provides a firm surface for travel in remote Arctic, Antarctic, and mountainous areas, using traditional dogsleds or snowshoes or modern snowmobiles.",
+"actor":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cwrJHRJ1QU2NN-RG8syP8svkNZ4xhBpyTQ&s",
+"actor1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0nqVwjtJIGLKqYkuN0_CsS_NDjIqhO2fvRw&s",
+ "actor2":"https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41558-018-0332-5/MediaObjects/41558_2018_332_Figa_HTML.png",
+ "actor3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc9AjwJ9WavVOjyxI8K9s9xS9yRXctHmt47A&s",
+ "actor4":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/CargoNet_Di_12_Euro_4000_L%C3%B8nsdal_-_Bolna.jpg/640px-CargoNet_Di_12_Euro_4000_L%C3%B8nsdal_-_Bolna.jpg",
+ "actor5":"https://c02.purpledshub.com/uploads/sites/77/2024/07/1ef40fe0-0f30-6bf8-bd51-91afcdcd4583.jpeg",
 "new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
     }
-      ]}
+,
+    {
+   "value":16,
+      "lable":"Atlantic Ocean ",
+        "zman":"Badini",
+    "wene1":"https://csridentity.com/images/atlanticocean.jpg",
+      "wene":"https://csridentity.com/images/atlanticocean.jpg",
+      "ism":" ",
+      "nav":"Atlantic Ocean",
+       "navs":"Atlantic Ocean ",
+    "welat":"85,133,000",
+   "kurti":"Overview",
+    "trailer":" ",
+    "action":"film",
+    "aaction":"106.5m km²",
+    "raiting":"star",
+    "araitng":" 8.1",
+    "time":"time-sharp",
+    "atime":"3,646 m",
+    "play1":" ",
+    
+     "youtube":"ijDbo-pqaY8?si=wr7uJOkMF-K7rc66",
+     
+      "jor":" ",
+
+ 
+ "akurti":"Among purely oceanic islands (i.e., those without any foundation of continental rock, usually formed as the result of volcanic action) are Iceland, the Azores, Ascension, St. Helena, Tristan da Cunha, Bouvet, and Gough, which all rise from the Mid-Atlantic Ridge; and the Canary, Madeira, and Cape Verde islands and Fernando de Noronha (near Cape São Roque), which rise from the continental margins of Africa and South America. Volcanic islands of a different sort are those of the two great arcs: the Lesser Antilles and the South Sandwich Islands. Partly continental and partly oceanic are the Greater Antilles in the Caribbean and South Georgia and the South Orkney Islands in the Scotia Sea. Purely continental are the British Isles, Newfoundland, the Falkland Islands (Islas Malvinas), and Greenland, which is an extension of the Canadian Shield.",
+"actor":"https://cdn.britannica.com/04/6004-004-A5175394/depth-contours-Atlantic-Ocean-submarine-features.jpg",
+"actor1":"https://preview.redd.it/a-map-of-the-atlantic-ocean-if-it-had-some-more-islands-%E3%83%84-v0-e29vgv0vwum81.png?auto=webp&s=18abccb2a00cb88be291ced45ea7e684616d099a",
+ "actor2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8aAY6KfJ4uF7cMUZGqK3O9E98kBAMDvP07Q&s",
+ "actor3":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Atlantic_Ocean_-_en_IHO.png",
+ "actor4":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfCkF73IB434KBElNH8DH7Hf2nxAKNTT0QNB27ZVvGlkqehg8a42ZpR-tkooiLBPQ2ZUCmJi8EoPYDXIBCRoSQSRx6ZBl6UaMDu8MglEdu88sMIq4Y4jUsXNiGShLRWPRu7hEfJEX4OC8aLizESYnx6kREPzK0-D587gsd8l66H9xPXIB33slM0qEaMng/s2400/Atlantic_Ocean_Islands.webp",
+ "actor5":"https://www.pandotrip.com/wp-content/uploads/2016/04/Newfoundland.jpg",
+"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
+   
+    }
+ 
+ 
+
+ ]
+}
