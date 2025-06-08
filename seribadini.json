@@ -1,78 +1,35 @@
 {
-  "Searchii":
- [
-    {
-   "value":17,
-      "lable":"Snow ",
-        "zman":"Badini",
-       "wene1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCYnZTkUgLP1FGfiQS008NhJjRjRYDXr5V9Q&s",
-      "wene":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCYnZTkUgLP1FGfiQS008NhJjRjRYDXr5V9Q&s",
+  "seri1":[
+   {
+      "id":3,
+      "wene1":"https://images8.alphacoders.com/128/1288370.jpg",
+      "wene":"https://images8.alphacoders.com/128/1288370.jpg",
       "ism":"",
-      "nav":" Snow",
-       "navs":"Snow",
-    "welat":"Snow",
+      "nav":"Elephant",
+        "navs":"Elephant  ",
+    "welat":"3.2 m",
    "kurti":"Overview",
     "trailer":" ",
     "action":"film",
-    "aaction":"sea level ",
+    "aaction":" 60 – 70 years",
     "raiting":"star",
-    "araitng":" 5.9",
+    "araitng":" 7.6",
     "time":"time-sharp",
-    "atime":"climate",
-        "play1":" ",
- 
-    "youtube":"wcDFgir_jgY?si=ceV3dQXCyh9gdTmT",
+    "atime":"40 km/h",
+       "play1":"",
+  "taj":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/crown%20(2).png?alt=media&token=e9e895fe-2803-48df-b51c-5779693852bd",
+    "youtube":"yq6e7ySG0Ho?si=y2Aq0niKPgSMBbUN",
      
       "jor":" ",
 
 
- "akurti":"Snow cover has a significant effect on climate and on plant, animal, and human life. By increasing the reflection of solar radiation and interfering with the conduction of heat from the ground, it induces a cold climate. The low heat conduction protects small plants from the effects of the lowest winter temperatures; on the other hand, the late disappearance of snow in the spring delays the growth of plants. When snow melts in the spring, the resulting runoff feeds rivers and supplies water for irrigation and other human enterprises. Heavy snowfalls can severely hinder transporation in variable moderate climates but provides a firm surface for travel in remote Arctic, Antarctic, and mountainous areas, using traditional dogsleds or snowshoes or modern snowmobiles.",
-"actor":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cwrJHRJ1QU2NN-RG8syP8svkNZ4xhBpyTQ&s",
-"actor1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0nqVwjtJIGLKqYkuN0_CsS_NDjIqhO2fvRw&s",
- "actor2":"https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41558-018-0332-5/MediaObjects/41558_2018_332_Figa_HTML.png",
- "actor3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc9AjwJ9WavVOjyxI8K9s9xS9yRXctHmt47A&s",
- "actor4":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/CargoNet_Di_12_Euro_4000_L%C3%B8nsdal_-_Bolna.jpg/640px-CargoNet_Di_12_Euro_4000_L%C3%B8nsdal_-_Bolna.jpg",
- "actor5":"https://c02.purpledshub.com/uploads/sites/77/2024/07/1ef40fe0-0f30-6bf8-bd51-91afcdcd4583.jpeg",
+ "akurti":"elephant, (family Elephantidae), largest living land animal, characterized by its long trunk (elongated upper lip and nose), columnar legs, and huge head with temporal glands and wide, flat ears. Elephants are grayish to brown in colour, and their body hair is sparse and coarse. They are found most often in savannas, grasslands, and forests but occupy a wide range of habitats, including deserts, swamps, and highlands in tropical and subtropical regions of Africa and Asia.",
+"actor":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcyf-RZ8ivnAYuMnQi3bzNEuQxe7KHjHX-8Q&s",
+"actor1":"https://cdn.prod.website-files.com/655cbee32f7e5cfd123ab592/65d368aa7ac3d3e0686ff706_african-elephant.jpg",
+ "actor2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8EepY7fFc4TD1Y8tZPRi8V76v7Y9NLK_-PQ&s",
+ "actor3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0a2blwW0jihh5mU-oqzg67cHiei-JlSSzg&s",
+ "actor4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm9JZD6xIeB013wCAk5ikjRQ4fu6-Gy4F5yw&s",
+ "actor5":"https://i.natgeofe.com/k/e7ba8001-23ac-457f-aedb-abd5f2fdda62/moms5_4x3.png",
 "new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
     }
-,
-    {
-   "value":16,
-      "lable":"Atlantic Ocean ",
-        "zman":"Badini",
-    "wene1":"https://csridentity.com/images/atlanticocean.jpg",
-      "wene":"https://csridentity.com/images/atlanticocean.jpg",
-      "ism":" ",
-      "nav":"Atlantic Ocean",
-       "navs":"Atlantic Ocean ",
-    "welat":"85,133,000",
-   "kurti":"Overview",
-    "trailer":" ",
-    "action":"film",
-    "aaction":"106.5m km²",
-    "raiting":"star",
-    "araitng":" 8.1",
-    "time":"time-sharp",
-    "atime":"3,646 m",
-    "play1":" ",
-    
-     "youtube":"ijDbo-pqaY8?si=wr7uJOkMF-K7rc66",
-     
-      "jor":" ",
-
- 
- "akurti":"Among purely oceanic islands (i.e., those without any foundation of continental rock, usually formed as the result of volcanic action) are Iceland, the Azores, Ascension, St. Helena, Tristan da Cunha, Bouvet, and Gough, which all rise from the Mid-Atlantic Ridge; and the Canary, Madeira, and Cape Verde islands and Fernando de Noronha (near Cape São Roque), which rise from the continental margins of Africa and South America. Volcanic islands of a different sort are those of the two great arcs: the Lesser Antilles and the South Sandwich Islands. Partly continental and partly oceanic are the Greater Antilles in the Caribbean and South Georgia and the South Orkney Islands in the Scotia Sea. Purely continental are the British Isles, Newfoundland, the Falkland Islands (Islas Malvinas), and Greenland, which is an extension of the Canadian Shield.",
-"actor":"https://cdn.britannica.com/04/6004-004-A5175394/depth-contours-Atlantic-Ocean-submarine-features.jpg",
-"actor1":"https://preview.redd.it/a-map-of-the-atlantic-ocean-if-it-had-some-more-islands-%E3%83%84-v0-e29vgv0vwum81.png?auto=webp&s=18abccb2a00cb88be291ced45ea7e684616d099a",
- "actor2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8aAY6KfJ4uF7cMUZGqK3O9E98kBAMDvP07Q&s",
- "actor3":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Atlantic_Ocean_-_en_IHO.png",
- "actor4":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfCkF73IB434KBElNH8DH7Hf2nxAKNTT0QNB27ZVvGlkqehg8a42ZpR-tkooiLBPQ2ZUCmJi8EoPYDXIBCRoSQSRx6ZBl6UaMDu8MglEdu88sMIq4Y4jUsXNiGShLRWPRu7hEfJEX4OC8aLizESYnx6kREPzK0-D587gsd8l66H9xPXIB33slM0qEaMng/s2400/Atlantic_Ocean_Islands.webp",
- "actor5":"https://www.pandotrip.com/wp-content/uploads/2016/04/Newfoundland.jpg",
-"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
-   
-    }
- 
- 
-
- ]
-}
+      ]}
